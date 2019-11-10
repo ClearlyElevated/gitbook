@@ -24,5 +24,9 @@ _TrustSafety_: Trust & Safety:  \|  **abuse@discloudbot.com**
 
 **Discord:** [**https://discord.gg/CvxevT5**](https://discord.gg/CvxevT5)\*\*\*\*
 {% endtab %}
+
+{% tab title="English Support " %}
+Nolan@DisCloud.tk
+{% endtab %}
 {% endtabs %}
 
